@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tunmise Oni (David)
+- 👋 Hi, I’m Tunmise Oni (David)
 - 👀 I’m interested in Web development(HTML, CSS, JS, REACT, NODE, (MERN)), PYTHON, C++, Data Structures and Algorithms and computer science concepts in general
 - 🌱 I’m currently learning Advanced Data Structures and Algorithms as well as polishing my Web development skills
 - 💞️ I’m looking to collaborate on Web development projects
